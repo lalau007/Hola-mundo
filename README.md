@@ -1,2 +1,3 @@
 # Hola-mundo
-Es mi primer repositorio con github
+
+# Esta es mi primera edición desde GeeksHubs Academy.
